@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "773974638000",
+    "project_id": "flutter-barcode-reader",
+    "storage_bucket": "flutter-barcode-reader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773974638000:android:b58858a6d180636dae2a75",
+        "android_client_info": {
+          "package_name": "com.example.barcode_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773974638000-95nmts8fsqeeeqjnu3otf4vaeajfvg0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnuJ0b1gTBCcMLHzgcn-MHBTEO6hL5cvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773974638000-95nmts8fsqeeeqjnu3otf4vaeajfvg0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
